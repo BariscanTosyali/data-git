@@ -1,5 +1,9 @@
+"""A module computing buddy pair names for the day"""
+
 def my_name_is():
+    """Returns my GitHub username"""
     return "BariscanTosyali"
 
 def my_buddy_is():
-    return "buddyyy"
+    """Returns my buddy's GitHub username"""
+    return "budyyy"
